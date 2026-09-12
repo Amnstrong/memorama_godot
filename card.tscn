@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cbg3edaq7b6me"]
+
+[ext_resource type="Script" uid="uid://b74n12wi1x8ef" path="res://card.gd" id="1_kikvd"]
+
+[node name="card" type="Button" unique_id=981760351]
+custom_minimum_size = Vector2(100, 140)
+offset_right = 8.0
+offset_bottom = 8.0
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("1_kikvd")
